@@ -1,3 +1,13 @@
+# 🧬 miRNA-DE-multiMiR
+
+<p align="center">
+  <img src="https://img.shields.io/badge/R-4.3%2B-blue?style=flat-square&logo=r" />
+  <img src="https://img.shields.io/badge/edgeR-DE%20Analysis-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/multiMiR-Target%20Validation-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+</p>
+
+---
 # edgeR + multiMiR Pipeline
 
 This repository contains an R workflow for performing **differential expression analysis** of small RNAs (e.g., miRNAs) using **edgeR**, followed by retrieval of **validated miRNA targets** with the [multiMiR](https://cran.r-project.org/web/packages/multiMiR/) package.
